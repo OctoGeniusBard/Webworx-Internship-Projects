@@ -36,7 +36,7 @@ DocGen automates **document creation & formatting** by:
 
 ---
 
-📎 **Complete UI Screenshots:** [Download PDF](DocGen/UI-Screenshots.pdf)  
+📎 **Complete UI Screenshots:** [Download PDF]([DocGen/DocGen UI Screenshots.docx.pdf](https://github.com/OctoGeniusBard/Webworx-Internship-Projects/blob/main/DocGen/DocGen%20UI%20Screenshots.docx.pdf))  
 
 ---
 
