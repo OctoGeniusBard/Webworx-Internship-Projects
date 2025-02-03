@@ -41,7 +41,7 @@ DocGen automates **document creation & formatting** by:
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap  
 - **Backend:** PHP, MySQL (PDO for database connection)  
 - **Libraries:** MPDF (for PDF generation), jQuery, AJAX  
-- **Server:** Apache Web Server
+- **Validation:** JavaScript (Client-Side) + PHP (Server-Side)
 - **mPDF**: A PHP library that generates PDF files from UTF-8 encoded HTML. It is based on FPDF and HTML2FPDF with several enhancements.
 ---
 
