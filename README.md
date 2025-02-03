@@ -36,31 +36,16 @@ DocGen automates **document creation & formatting** by:
 
 ---
 
-📎 **Complete UI Screenshots:** [Download PDF]([DocGen/DocGen UI Screenshots.docx.pdf](https://github.com/OctoGeniusBard/Webworx-Internship-Projects/blob/main/DocGen/DocGen%20UI%20Screenshots.docx.pdf))  
-
----
-
-
-### 🔧 **Implementation Strategies**  
-#### **Packages Used:**  
-- **mPDF**: A PHP library that generates PDF files from UTF-8 encoded HTML. It is based on FPDF and HTML2FPDF with several enhancements, including:
-  - ✅ CSS stylesheets support
-  - ✅ Word and character spacing for justification
-  - ✅ Page headers & footers
-  - ✅ Multi-column layout
-  - ✅ Nested and auto-sized tables
-  - ✅ Table of contents and indexing
-  - ✅ Watermarks and password protection
-  - ✅ Image support (JPG, GIF, PNG, SVG, BMP, WMF)
-    
+📎 **Complete UI Screenshots:** ([DocGen/DocGen UI Screenshots.docx.pdf](https://github.com/OctoGeniusBard/Webworx-Internship-Projects/blob/main/DocGen/DocGen%20UI%20Screenshots.docx.pdf))  
+  
 ---
 
 ### 🛠 **Technologies Used**  
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap  
 - **Backend:** PHP, MySQL (PDO for database connection)  
 - **Libraries:** MPDF (for PDF generation), jQuery, AJAX  
-- **Server:** Apache Web Server  
-
+- **Server:** Apache Web Server
+- **mPDF**: A PHP library that generates PDF files from UTF-8 encoded HTML. It is based on FPDF and HTML2FPDF with several enhancements.
 ---
 
 ### 🎯 **My Role & Contribution**  
@@ -70,15 +55,6 @@ DocGen automates **document creation & formatting** by:
 ✅ Integrated **MPDF library** for automatic **PDF generation**.  
 ✅ Built **CRUD operations** for employee & candidate records.  
 
----
-### ⚠ **Limitations and Drawbacks**  
-Limitations are important to understand for improving the web application. Some limitations of DocGen include:  
-- ❌ **Restricted to Webworx Pvt. Ltd.** – This application is specifically developed for Webworx India Private Limited.  
-- ❌ **Admin-Only Access** – Only the admin can manage employee details and document content; employees/clients do not have access.  
-- ❌ **Limited Document Generation Scope** – Admin can only generate documents for employees whose records exist in the database.  
-
----
-
 ### 📢 **Conclusion**  
 This project helped in understanding the **development of an interactive web application** and the technologies required for its implementation. Through this project, I gained practical knowledge of:
 - 🌟 **Developing dynamic web applications**
@@ -86,14 +62,11 @@ This project helped in understanding the **development of an interactive web app
 - 🌟 **Integrating PDF generation libraries**
 - 🌟 **Improving efficiency in document processing**  
 DocGen successfully streamlines document generation, making it more **efficient and user-friendly**.  
-
 ---
-
 ### 🚀 **Future Enhancements**  
 - ✉ **Automated Emailing of Documents** – Instead of manually downloading PDFs, future updates will allow the system to directly **email generated documents** to employees.  
 - 📊 **Enhanced User Role Management** – Future versions will allow role-based access, enabling employees to generate their documents directly.  
 - 📂 **Cloud Storage Integration** – Documents could be stored in cloud platforms like Google Drive or AWS S3 for better accessibility.  
-
 ---
      
 ### Clutch & Care - Healthcare Mobile App UI Design
