@@ -21,7 +21,7 @@ During my internship, I worked on **real-world web applications**, where I was r
 ### 📌 **1. DocGen - Automated Document Generation System**  
 🚀 A web application that automates **document creation** (e.g., offer letters, appointment letters) and **exports them as PDFs**.  
 🔹 **Technologies Used:** HTML, CSS, Bootstrap, Javascript, Jquery, PHP, PDO, MySQL, MPDF  
-📁 **Project Folder:** [`/DocGen`]([./DocGen/](https://github.com/OctoGeniusBard/Webworx-Internship-Projects/tree/main/DocGen))  
+📁 **Project Folder:** [`/DocGen`](DocGen)  
 
 ---
 
@@ -36,6 +36,6 @@ During my internship, I worked on **real-world web applications**, where I was r
 ### 📌 **3. TraccAccountancy - Financial Management System UI**  
 📊 A **web-based accounting and financial management UI** for **Track Account LTD UK**.  
 🔹 **Technologies Used:** HTML, CSS, Bootstrap, PHP, jQuery, AJAX  
-📁 **Project Folder:** [`/TraccAccountancy`]([./TraccAccountancy/](https://github.com/OctoGeniusBard/Webworx-Internship-Projects/tree/main/Tracacc))  
+📁 **Project Folder:** [`/TraccAccountancy`](Tracacc)  
 
 ---
