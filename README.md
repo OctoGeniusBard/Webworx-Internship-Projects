@@ -29,7 +29,7 @@ During my internship, I worked on **real-world web applications**, where I was r
 📱 A **mobile-friendly healthcare application UI**, designed for a UK-based client.  
 🔹 **Technologies Used:** HTML, CSS, Bootstrap, PHP, jQuery, AJAX 
 
-📁 **Project Folder:** [`/ClutchCare`]([./ClutchCare/](https://github.com/OctoGeniusBard/Webworx-Internship-Projects/tree/main/Clutch-Care-UI))  
+📁 **Project Folder:** [`/ClutchCare`](Clutch-Care-UI)  
 
 ---
 
